@@ -1,0 +1,10 @@
+# Merge Strings Alternately
+
+
+`https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=leetcode-75`
+
+
+Explain:
+
+- We append elements in the list in a alternative pattern until one string is processed.
+- We then add the remaining elements from either of the strings to the end of our new string.
